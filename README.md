@@ -1,4 +1,4 @@
-i# NYC Taxi Databricks Pipeline
+# NYC Taxi Databricks Pipeline
 
 Projet de **Data Pipeline** end-to-end sur **Databricks** utilisant l'architecture **Medallion** (Bronze / Silver / Gold) pour traiter les données **NYC TLC Trip Records** (Yellow Taxi, Green Taxi, High-Volume For-Hire Vehicles).
 
